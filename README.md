@@ -1,4 +1,4 @@
-# Apply_-company_Analytic_tableau
+# Apple_-company_Analytic_tableau
 **Introduction:**
 Welcome to the Apple Company Performance Dashboard, a powerful visualization tool created using Tableau. This dashboard offers a comprehensive analysis of Apple's stock performance, allowing you to explore key metrics such as close price, high price, low price, adjusted close, and volume across different years. Whether you're an investor, financial analyst, or Apple enthusiast, this dashboard provides valuable insights into the company's stock performance over time.
 
